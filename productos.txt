@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Arroz",
+    "price": 128.34,
+    "thumbnail": "https://bit.ly/3zjJXCh",
+    "id": 1
+  },
+  {
+    "title": "Papa",
+    "price": 200,
+    "thumbnail": "https://bit.ly/3zh4584",
+    "id": 2
+  },
+  {
+    "title": "Mandarina",
+    "price": 500.55,
+    "thumbnail": "https://bit.ly/3zocqab",
+    "id": 3
+  },
+  {
+    "title": "Cebolla",
+    "price": 150.24,
+    "thumbnail": "https://bit.ly/3kIwa42",
+    "id": 4
+  }
+]
